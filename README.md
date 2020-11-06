@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/adamjag-mod/8a12989a-51ab-4467-8a77-3adb912927f4/3f0c47fe-8c45-4a8e-8e9d-7ea3fa644a8e/_apis/work/boardbadge/02a25a72-495e-4e26-a94a-24dc5ace0fe6)](https://dev.azure.com/adamjag-mod/8a12989a-51ab-4467-8a77-3adb912927f4/_boards/board/t/3f0c47fe-8c45-4a8e-8e9d-7ea3fa644a8e/Microsoft.RequirementCategory)
 
 ## Contributing
 
